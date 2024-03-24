@@ -37,5 +37,9 @@ Benefit from the poweful knoweledge of search engine, our decomposition is more 
 
 
 
-
 <img width="1228" alt="Screenshot 2024-03-24 at 11 05 19 AM" src="https://github.com/tyu008/mistral_hackthon_blog_generator/assets/3173580/2d8219bf-44ce-45ae-a0a4-451eda273909">
+
+
+
+<img width="966" alt="Screenshot 2024-03-24 at 11 25 50 AM" src="https://github.com/tyu008/mistral_hackthon_blog_generator/assets/3173580/36d8eeae-a8b5-451d-8f19-a4c89bad07dd">
+
