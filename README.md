@@ -33,3 +33,9 @@ Benefit from the poweful knoweledge of search engine, our decomposition is more 
 ## Generated Blogs
 
 <img width="1725" alt="Screenshot 2024-03-24 at 11 03 25 AM" src="https://github.com/tyu008/mistral_hackthon_blog_generator/assets/3173580/bff5350d-c89c-42a7-9ce0-8ab453e009a5">
+
+
+
+
+
+<img width="1228" alt="Screenshot 2024-03-24 at 11 05 19 AM" src="https://github.com/tyu008/mistral_hackthon_blog_generator/assets/3173580/2d8219bf-44ce-45ae-a0a4-451eda273909">
